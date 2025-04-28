@@ -93,7 +93,7 @@ Ai-tendance/
 Below are some screenshots of the application in action:
 
 1. **Home Page**  
-   ![Home Page](images/homepage_screenshot.png)
+   ![Image](https://github.com/user-attachments/assets/354510b6-e77f-4598-a688-a58150d12bad)
 
 2. **Facial Recognition in Action**  
    ![Facial Recognition](images/recognition_screenshot.png)
