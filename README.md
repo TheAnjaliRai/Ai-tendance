@@ -88,7 +88,19 @@ Ai-tendance/
    ```bash
    python check_attendance.py
    ```
-4. **Screenshots of the project**:
+## 📸 Screenshots
+
+Below are some screenshots of the application in action:
+
+1. **Home Page**  
+   ![Home Page](images/homepage_screenshot.png)
+
+2. **Facial Recognition in Action**  
+   ![Facial Recognition](images/recognition_screenshot.png)
+
+3. **Attendance Logs**  
+   ![Attendance Logs](images/attendance_logs_screenshot.png)
+
    
 ## 📃 License
 
