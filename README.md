@@ -96,7 +96,7 @@ Below are some screenshots of the application in action:
    ![Image](https://github.com/user-attachments/assets/354510b6-e77f-4598-a688-a58150d12bad)
 
 2. **Facial Recognition in Action**  
-   ![Facial Recognition](images/recognition_screenshot.png)
+   ![Image](https://github.com/user-attachments/assets/aadb29b9-982a-4d5f-b9a8-5e896cce73a9)
 
 3. **Attendance Logs**  
    ![Attendance Logs](images/attendance_logs_screenshot.png)
