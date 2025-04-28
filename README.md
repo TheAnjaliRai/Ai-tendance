@@ -99,7 +99,7 @@ Below are some screenshots of the application in action:
    ![Image](https://github.com/user-attachments/assets/aadb29b9-982a-4d5f-b9a8-5e896cce73a9)
 
 3. **Attendance Logs**  
-   ![Attendance Logs](images/attendance_logs_screenshot.png)
+   ![Image](https://github.com/user-attachments/assets/7342e6a3-04b4-47d3-8240-cbc5d3e67f76)
 
    
 ## 📃 License
