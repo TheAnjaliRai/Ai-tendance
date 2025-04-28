@@ -88,7 +88,8 @@ Ai-tendance/
    ```bash
    python check_attendance.py
    ```
-
+4. **Screenshots of the project**:
+   
 ## 📃 License
 
 This project is licensed under the [MIT License](LICENSE).
